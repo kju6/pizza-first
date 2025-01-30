@@ -32,10 +32,12 @@ materialize/1.0.0/css/materialize.min.css">
 <body class="grey lighten-4">
     <nav class="z-depth-0 cyan">
         <div class="container">
-        
-            <a href="index.php" class="brand-logo brand-text center">Dose Pizza</a>
+            <a href="index.php" class="brand-logo brand-text">
+                <img src="imge/doze1.jpg" alt="" style="width:45px; vertical-align: middle;">
+                Dose Pizza
+            </a>
             <ul id="nav-mobile" class="right hide-on-small-and-down">
-                <li><a href="add.php" class="btn brand z-depth-0 grey-text ">Add a pizza</a></li>
+                <li><a href="add.php" class="btn brand z-depth-0 grey-text">Add a pizza</a></li>
             </ul>
         </div>
     </nav>
